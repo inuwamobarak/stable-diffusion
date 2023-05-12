@@ -1,5 +1,5 @@
 # stable-diffusion
-practice on implementing a diffusion framework
+Implementing a diffusion framework with Hugging Face pipeline
 
 
-Credit: Thanks to The Python Code https://www.thepythoncode.com/article/generate-images-from-text-stable-diffusion-python
+Credit: Thanks to Huggingface https://huggingface.co/docs/diffusers
