@@ -6,4 +6,5 @@ Implementing a diffusion framework with Hugging Face pipeline
 Stable diffusion models enable the generation of visuals and audio by using several state-of-the-art contemporary methods. Stable diffusion modifies input data under the guidance of text input and produces fresh, original output data.
 
 
-Credit: Thanks to Huggingface: https://huggingface.co/docs/diffusers
+
+Thanks to Huggingface: https://huggingface.co/docs/diffusers
